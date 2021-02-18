@@ -1,7 +1,7 @@
 notlar =list()
 ogrenciler = list()
 bilgi = dict()
-adet = 3
+adet = 5
 for i in range(adet):
     print(f"Öğrenci {i+1} bilgilerini giriniz.")
     notlar.append(list())
